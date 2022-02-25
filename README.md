@@ -11,27 +11,27 @@
 
 ### SRS Sections Updated
 
-<<List any SRS sections that were updated in the last sprint>>
+<< List any SRS sections that were updated in the last sprint >>
 
 ### Requirement Implemented
 
-<<The corresponding SRS requirement that the team completed in the last sprint>>
+<< The corresponding SRS requirement that the team completed in the last sprint >>
 
 ###  User Story:
 
-<<As a client, I want an application that I can deploy on any server running Docker>>
+<< As a client, I want an application that I can deploy on any server running Docker >>
 
 ### Completed Items
 
-<<The work that's been completed in this sprint>>
+<< The work that's been completed in this sprint >>
 
 ### Uncompleted Items
 
-<<The work that has not been completed in this sprint>>
+<< The work that has not been completed in this sprint >>
 
 ### The summary of the entire project:
 
-<<A general overview of the entire project>>
+<< A general overview of the entire project >>
 
 ***
 
@@ -39,20 +39,20 @@
 
 ### Requirement Target:
 
-<<The corresponding SRS requirement that our team will be complete in next sprint>>
+<< The corresponding SRS requirement that our team will be complete in next sprint >>
 
 ### User Stories:
 
-<<Corresponding User Stories>>
+<< Corresponding User Stories >>
 
 ### Planning
 
-<<Our team's detailed plan to complete the sprint>>
+<< Our team's detailed plan to complete the sprint >>
 
 ### Action Items:
 
-<<A list of things that need to happen in our for our team to complete the sprint>>
+<< A list of things that need to happen in our for our team to complete the sprint >>
 
 ### Issues and Risks:
 
-<<A list of potential obstacles that could keep us from completing the sprint and what's being done about them>>
+<< A list of potential obstacles that could keep us from completing the sprint and what's being done about them >>
