@@ -1,1 +1,58 @@
-# template_sprint_meeting
+# Sprint 0 Meeting Notes
+
+
+**Attended**: <<record the team members in attendance (virtual counts as long as they are participating)>>
+
+***
+
+## Sprint Review
+
+
+
+### SRS Sections Updated
+
+<<List any SRS sections that were updated in the last sprint>>
+
+### Requirement Implemented
+
+<<The corresponding SRS requirement that the team completed in the last sprint>>
+
+###  User Story:
+
+<<As a client, I want an application that I can deploy on any server running Docker>>
+
+### Completed Items
+
+<<The work that's been completed in this sprint>>
+
+### Uncompleted Items
+
+<<The work that has not been completed in this sprint>>
+
+### The summary of the entire project:
+
+<<A general overview of the entire project>>
+
+***
+
+## Sprint Planning
+
+### Requirement Target:
+
+<<The corresponding SRS requirement that our team will be complete in next sprint>>
+
+### User Stories:
+
+<<Corresponding User Stories>>
+
+### Planning
+
+<<Our team's detailed plan to complete the sprint>>
+
+### Action Items:
+
+<<A list of things that need to happen in our for our team to complete the sprint>>
+
+### Issues and Risks:
+
+<<A list of potential obstacles that could keep us from completing the sprint and what's being done about them>>
