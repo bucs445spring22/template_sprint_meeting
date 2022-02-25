@@ -13,13 +13,13 @@
 
 << List any SRS sections that were updated in the last sprint >>
 
+###  User Story
+
+<< Corresponding User Stories completed in this sprint >>
+
 ### Requirement Implemented
 
 << The corresponding SRS requirement that the team completed in the last sprint >>
-
-###  User Story:
-
-<< As a client, I want an application that I can deploy on any server running Docker >>
 
 ### Completed Items
 
