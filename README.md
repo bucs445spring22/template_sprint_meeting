@@ -49,10 +49,14 @@
 
 << Our team's detailed plan to complete the sprint >>
 
-### Action Items:
+### Action Items
 
 << A list of things that need to happen in our for our team to complete the sprint >>
 
-### Issues and Risks:
+### Issues and Risks
 
 << A list of potential obstacles that could keep us from completing the sprint and what's being done about them >>
+
+### Team Work Assignments
+
+<< A list of each team member and their works assignments for this sprint >>
