@@ -1,4 +1,4 @@
-# Sprint 0 Meeting Notes
+# Sprint # Meeting Notes
 
 
 **Attended**: <<record the team members in attendance (virtual counts as long as they are participating)>>
