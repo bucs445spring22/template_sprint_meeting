@@ -27,7 +27,7 @@
 
 ### Uncompleted Items
 
-<< The work that has not been completed in this sprint >>
+<< The work that has not been completed in this sprint. Be VERY detailed and specific regarding what isn't working and what needs to be completed >>
 
 ### The summary of the entire project:
 
@@ -36,6 +36,14 @@
 ***
 
 ## Sprint Planning
+
+## Technical Flex Remaining
+
+5/5
+
+## Technical Debt
+
+<<Any requirements from the previous sprint that were not fully completed>>
 
 ### Requirement Target:
 
