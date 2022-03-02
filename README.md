@@ -17,15 +17,15 @@
 
 << Corresponding User Stories completed in this sprint >>
 
-### Requirement Implemented
+### Sprint Requirements Attempted
 
 << The corresponding SRS requirement that the team completed in the last sprint >>
 
-### Completed Items
+### Completed Requirements
 
 << The work that's been completed in this sprint >>
 
-### Uncompleted Items
+### Incomplete Requirements
 
 << The work that has not been completed in this sprint. Be VERY detailed and specific regarding what isn't working and what needs to be completed >>
 
@@ -37,13 +37,13 @@
 
 ## Sprint Planning
 
-## Technical Flex Remaining
+## Technical Flex
 
-5/5
+#/5 requirement flexes
 
 ## Technical Debt
 
-<<Any requirements from the previous sprint that were not fully completed>>
+<< Any requirements from the previous sprint that are using a techinical flex >>
 
 ### Requirement Target:
 
