@@ -1,11 +1,11 @@
-# Sprint # Meeting Notes
+# Sprint Meeting Notes
 
 
-**Attended**: <<record the team members in attendance (virtual counts as long as they are participating)>>
+**Attended**: << record the team members in attendance (virtual counts as long as they are participating) >>
 
 ***
 
-## Sprint Review
+## Sprint << num >> Review
 
 
 
@@ -35,7 +35,7 @@
 
 ***
 
-## Sprint Planning
+## Sprint << num >> Planning
 
 ## Technical Flex
 
