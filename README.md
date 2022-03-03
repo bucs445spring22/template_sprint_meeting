@@ -40,7 +40,7 @@
 
 ## Technical Flex
 
-#/5 requirement flexes
+<< # >>/5 requirement flexes
 
 ## Technical Debt
 
