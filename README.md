@@ -10,13 +10,11 @@
 
 ## Sprint << num >> Review
 
-
-
 ### SRS Sections Updated
 
 << List any SRS sections that were updated in the last sprint >>
 
-###  User Story
+### User Story
 
 << Corresponding User Stories completed in this sprint >>
 
@@ -32,7 +30,7 @@
 
 << The work that has not been completed in this sprint. Be VERY detailed and specific regarding what isn't working and what needs to be completed >>
 
-### The summary of the entire project:
+### The summary of the entire project
 
 << A general overview of the entire project >>
 
@@ -48,11 +46,11 @@
 
 << Any requirements from the previous sprint that are using a technical flex >>
 
-### Requirement Target:
+### Requirement Target
 
 << The corresponding SRS requirement that our team will be complete in next sprint >>
 
-### User Stories:
+### User Stories
 
 << Corresponding User Stories >>
 
