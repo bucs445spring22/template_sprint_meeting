@@ -4,6 +4,8 @@
 
 **Attended**: << record the team members in attendance (virtual counts as long as they are participating) >>
 
+**DATE**: << meeting date >>
+
 ***
 
 ## Sprint << num >> Review
@@ -38,13 +40,13 @@
 
 ## Sprint << num >> Planning
 
-## Technical Flex
+## Requirements Flex
 
-<< # >>/5 requirement flexes
+<< # >>/5 requirement flexes remaining
 
 ## Technical Debt
 
-<< Any requirements from the previous sprint that are using a techinical flex >>
+<< Any requirements from the previous sprint that are using a technical flex >>
 
 ### Requirement Target:
 
