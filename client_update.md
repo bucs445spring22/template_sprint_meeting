@@ -16,3 +16,7 @@
 ## Requirement Flex Remaining
 
 << # / 5 >>
+
+# Milestone Status
+
+<< Pass/Fail >>
