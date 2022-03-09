@@ -1,6 +1,8 @@
 
 # Client Meeting Notes
 
+## Sprint Notes Complete
+
 ## Requirements Attempted in this Sprint
 
 << TBD >>
@@ -20,3 +22,5 @@
 # Milestone Status
 
 << Pass/Fail >>
+
+## Requested Changes
