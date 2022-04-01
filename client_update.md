@@ -1,15 +1,17 @@
 
 # Client Meeting Notes
 
-## Sprint Notes Complete
+## Sprint Notes
+
+## SRS Updated
+
 
 ## Requirements Attempted in this Sprint
 
-<< TBD >>
+
 
 ## Requirements complete
 
-<< TBD >>
 
 ## Requirements incomplete
 
@@ -17,7 +19,7 @@
 
 ## Requirement Flex Remaining
 
-<< # / 5 >>
+<< 5 / 5 >>
 
 ## Requirements Attempted in next Sprint
 
